@@ -1,0 +1,10 @@
+flask==1.1.4
+gunicorn==19.9.0
+opencv-contrib-python-headless==4.5.2.52
+opencv-python-headless==4.5.2.52
+numpy
+matplotlib==3.*
+jinja2<3.1.0
+markupsafe==2.0.1
+tensorflow==2.6.0
+keras==2.6.*
