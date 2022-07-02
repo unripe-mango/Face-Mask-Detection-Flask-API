@@ -16,6 +16,4 @@ Terminal: flask run![Screenshot 2022-06-24 180551](tutorial\Screenshot 2022-06-2
 
 curl -X POST -F image=@test1.jpg 'http://127.0.0.1:5000/detect'
 
-![home](tutorial\Screenshot 2022-06-25 075449.jpg)
-
-![Screenshot 2022-06-24 194639](tutorial\Screenshot 2022-06-24 194639.jpg)
+![](tutorial\Screenshot 2022-06-25 075449.jpg)![](tutorial/Screenshot%202022-06-24%20194639.jpg)
